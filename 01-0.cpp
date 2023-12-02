@@ -2,6 +2,7 @@
 #include <string>
 #include <sstream>
 #include <cctype>
+
 using namespace std;
 
 int main() {
@@ -27,7 +28,7 @@ int main() {
 
       sum += num;
 
-      cout << sum << '\n';
+      cout << sum << endl;
     }
 
     return 0;

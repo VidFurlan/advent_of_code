@@ -3,6 +3,7 @@
 #include <sstream>
 #include <cctype>
 #include <vector>
+
 using namespace std;
 
 vector<string> words = {"one","two","three","four","five","six","seven","eight","nine"};
@@ -52,7 +53,7 @@ int main() {
 
       sum += num;
       
-      cout << "\n" << sum;
+      cout << sum << endl;
     }
     
     return 0;
