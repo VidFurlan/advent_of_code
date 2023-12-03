@@ -60,7 +60,8 @@ Game 5: 6 red, 1 blue, 3 green; 2 blue, 1 red, 2 green
 ----
 ### Day 3
 **[Advent of Code: Day 3](https://adventofcode.com/2023/day/3)**
-**Related Topics:** String
+
+**Related Topics:** String, Set
 
 **Test input:**
 ```
