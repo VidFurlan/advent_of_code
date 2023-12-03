@@ -1,10 +1,11 @@
 # Advent Of Code 2023
 
-
+My solutions and approaches for the Advent of Code 2023 in C++
 
 ----
 ### Day 1
-**[Advent of Code: Day 1](https://adventofcode.com/2023/day/1)**
+**[Problem description](https://adventofcode.com/2023/day/1)**
+
 **Related Topics:** String, Two Pointers
 
 **Test input:**
@@ -31,7 +32,8 @@ zoneight234
 
 ----
 ### Day 2
-**[Advent of Code: Day 2](https://adventofcode.com/2023/day/2)**
+**[Problem description](https://adventofcode.com/2023/day/2)**
+
 **Related Topics:** String
 
 **Test input:**
