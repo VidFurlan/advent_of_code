@@ -59,7 +59,7 @@ Game 5: 6 red, 1 blue, 3 green; 2 blue, 1 red, 2 green
 
 ----
 ### Day 3
-**[Advent of Code: Day 3](https://adventofcode.com/2023/day/3)**
+**[Problem description](https://adventofcode.com/2023/day/3)**
 **Related Topics:** String
 
 **Test input:**
@@ -91,3 +91,19 @@ Game 5: 6 red, 1 blue, 3 green; 2 blue, 1 red, 2 green
    2. When a number is found check how long it is by moving to the left until you reach its end
    3. Save the start position to a set of numbers
    4. If the set size is equal to 2, multiply the numbers and add to the total sum
+
+
+
+----
+### Day 4
+**[Problem description](https://adventofcode.com/2023/day/4)**
+**Related Topics:** String, Set
+
+**Test input:**
+```
+```
+
+#### Star 1
+
+#### Star 2
+
