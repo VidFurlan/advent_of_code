@@ -8,7 +8,7 @@ using namespace std;
 int main () {
     vector<string> rows;
     unordered_set<string> set;
-
+    
     ifstream input_file("input.txt");
     string input_line;
     

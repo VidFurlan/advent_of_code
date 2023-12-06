@@ -1,8 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-#include <vector>
-#include <cmath>
 #include <unordered_set>
 #include <unordered_map>
  
@@ -11,7 +9,7 @@ using namespace std;
 unordered_set<int> createSet(string str) {
     unordered_set<int> numbers;
     istringstream iss(str);
-
+    
     int number;
     while (iss >> number) 
         numbers.insert(number);
